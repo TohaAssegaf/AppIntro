@@ -334,3 +334,6 @@ If you are using AppIntro in your app and would like to be listed here, please l
  * [BeatPrompter](https://play.google.com/store/apps/details?id=com.stevenfrew.beatprompter)
  * [Orario Treni Trenitalia](https://play.google.com/store/apps/details?id=com.jaus.albertogiunta.justintrain_oraritreni)
  * [Tipsy for Gardaland](https://play.google.com/store/apps/details?id=com.MonkeyLab.MyGardaland&hl=it)
+
+
+## Aku edit mas ,buat Hacktoberfest :v
